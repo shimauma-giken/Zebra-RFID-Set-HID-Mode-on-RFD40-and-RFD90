@@ -24,6 +24,7 @@ Zebra RFDシリーズにおいて、HIDで読み取りデータを出力した�
 1. 接続方式に合わせて、下記リンクの手順に従って設定をする。
 
     [HID設定: USB接続場合](https://supportcommunity.zebra.com/s/article/000022170?language=ja)
+    
     [HID設定: Bluetooth接続場合](https://supportcommunity.zebra.com/s/article/000022171?language=ja)
 
     <br>
